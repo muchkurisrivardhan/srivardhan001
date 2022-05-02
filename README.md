@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srivardhan001
-- 👀 I’m interested in CEH and java programming
+- 👀 I’m interested in CEH & java programming
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate 
 - 📫 You can reach me via e-mail at ... (e-mail address:srivardhan621@gmail.com)
